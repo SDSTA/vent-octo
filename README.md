@@ -14,7 +14,7 @@ https://paper.dropbox.com/doc/Golang-Task-SRHVn4MGthOvIUZS8R1By
 #### 1. Clone the repository
 ```
 git clone https://github.com/SDSTA/vent-octo.git
-cd ventrata_octo
+cd vent-octo
 ```
 
 #### 2. Build the Docker containers
