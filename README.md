@@ -5,10 +5,8 @@ https://paper.dropbox.com/doc/Golang-Task-SRHVn4MGthOvIUZS8R1By
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
 ### Prerequisites
-- Go 1.16 or higher
+- Go 1.19 or higher
 - Docker and Docker Compose
 
 ### Installing
@@ -43,6 +41,7 @@ make test
 - Go (Golang)
 - Docker
 - golang-migrate/migrate
-- CurrencyAPI
+- CurrencyAPIss
 - Data-dog
 - sql-mock
+- Swagger
