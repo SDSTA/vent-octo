@@ -45,3 +45,7 @@ make test
 - Data-dog
 - sql-mock
 - Swagger
+
+## Developer
+
+### Andrei Florea - andreiflorea19981014@gmail.com
